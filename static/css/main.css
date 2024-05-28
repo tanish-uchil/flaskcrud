@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:5px;
+}
+table,td,th{
+    margin:10px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+}
